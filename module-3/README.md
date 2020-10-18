@@ -2,4 +2,4 @@
 
 Coursera course: HTML, CSS, and Javascript for Web Developers
 
-# To see the output [CLICK HERE](https://github.com/Balaken/coursera-test-html-css-js/blob/master/module-3/index.html)
+# To see the output [CLICK HERE](https://balaken.github.io/coursera-test-html-css-js/module-3/index.html)
